@@ -1,4 +1,5 @@
-# SQL Queries for Sales Trend Analysis
+# Sales Trend Aanlysis
+SQL Queries for Sales Trend Analysis
 
 This repository includes SQL queries designed to extract valuable insights from your sales data. By leveraging these queries, you can gain a deeper understanding of:
 
